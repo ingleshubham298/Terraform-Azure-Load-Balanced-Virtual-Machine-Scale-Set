@@ -1,4 +1,4 @@
-# Project14 - Azure Load-Balanced Web Application Infrastructure
+# Project -Azure Load-Balanced Web Application Infrastructure
 
 ## Project Overview
 
@@ -234,7 +234,7 @@ After deployment, Terraform provides these outputs:
 
 ## Author & Version
 
-- **Project**: Project14 - Azure Load-Balanced Infrastructure
+- **Project**: Project -Azure Load-Balanced Infrastructure
 - **Author**: Shubham Ingle     
 - **IaC Tool**: Terraform
 - **Terraform Version**: >= 1.5.7  
