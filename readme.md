@@ -235,7 +235,10 @@ After deployment, Terraform provides these outputs:
 ## Author & Version
 
 - **Project**: Project14 - Azure Load-Balanced Infrastructure
+- **Author**: Shubham Ingle     
 - **IaC Tool**: Terraform
+- **Terraform Version**: >= 1.5.7  
+- **Azure Provider Version**: ~> 4.0# terraform-azure-app-service
 - **Cloud Provider**: Microsoft Azure
 - **Region**: Central India
 - **Last Updated**: December 2025
